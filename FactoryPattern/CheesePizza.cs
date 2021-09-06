@@ -8,5 +8,6 @@ namespace FactoryPattern
 {
     public class CheesePizza : Pizza
     {
+        // 한글 깨짐 테스트
     }
 }
